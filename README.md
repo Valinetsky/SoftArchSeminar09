@@ -20,3 +20,10 @@
 6. Таблица IP: тип IP-адреса, количество адресов, итоговая стоимость пула адресов;
 7. Таблица CPU: название процессора, число ядер, рабочая частота, цена;
 8. Таблица Disk: тип диска, его емкость(ГБ), цена.
+
+## Прототип интерфейса приложения в Figma
+
+[![ссылка на макет](/Vector.svg)](https://www.figma.com/proto/a2lue617IHVvqvlPkDu2hm/VDS?page-id=0%3A1&type=design&node-id=2504-1671&viewport=836%2C581%2C0.13&t=f28Qf6byRcicZIDG-1&scaling=scale-down&starting-point-node-id=2504%3A1671&mode=design "Click me!")
+
+
+[ссылка на макет](https://www.figma.com/proto/a2lue617IHVvqvlPkDu2hm/VDS?page-id=0%3A1&type=design&node-id=2504-1671&viewport=836%2C581%2C0.13&t=f28Qf6byRcicZIDG-1&scaling=scale-down&starting-point-node-id=2504%3A1671&mode=design "Figma prototype")
